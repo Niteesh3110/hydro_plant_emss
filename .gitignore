@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Local DB + logs
+emss.db
+*.log
